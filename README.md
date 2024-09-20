@@ -1,9 +1,9 @@
 ### Hi, I'm Jerick!
 
-👨‍💻 I.T Student 
-👩🏻‍🎓 Studying Information Technology at the Nationals Teachers College, Philippines
-🌱 Currently learning...
-📫 How to reach me **jrckm.acupinpin@gmail.com**
+👨‍💻 I.T Student <br>
+👩🏻‍🎓 Studying Information Technology at the Nationals Teachers College, Philippines <br>
+🌱 Currently learning... <br>
+📫 How to reach me **jrckm.acupinpin@gmail.com** <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=jrckacupinpin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
