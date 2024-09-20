@@ -1,7 +1,7 @@
 ### Hi, I'm Jerick!
 
-👨‍💻 I.T Student <br>
-👩🏻‍🎓 Studying Information Technology at the Nationals Teachers College, Philippines <br>
+👨‍💻 I.T student <br>
+👩🏻‍🎓 Studying Information Technology at the National Teachers College, Philippines <br>
 🌱 Currently learning... <br>
 📫 How to reach me **jrckm.acupinpin@gmail.com** <br>
 
